@@ -10,7 +10,7 @@
 
 ## StorRAG is OpenSource. Your Code, Your Data, Forever!
 
-Our idea in the making. A RAG Appliance with a mission, to turn **your storage**, into **your data**.
+Our idea in the making. A RAG Appliance with a mission, to turn **your storage**, into **your data**. We do this by creating a **Context Layer** in **markdown** format for your RAG data.
 
 At StorRAG our code is in [GitHub](https://github.com/StorRAG/Appliance) and our software is packaged in a [Bootable Container](https://bootc.dev/bootc/) . This means you can review the code **Anytime** and run the software **Anywhere**, from **Bare Metal** to **The Cloud**. 
 
